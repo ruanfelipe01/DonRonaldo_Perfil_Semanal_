@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "DonRonaldo_Perfil_Semanal", "DonRonaldo_Perfil_Semanal.dtproj", "{9D4F034C-9C72-496D-BF21-BA541E6DAAB4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Power BI", "Power BI", "{93F48A33-9B71-41B4-8A8E-68B17441D2E4}"
+	ProjectSection(SolutionItems) = preProject
+		DonRonaldo_Perfil_Semanal.pbix = DonRonaldo_Perfil_Semanal.pbix
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D4F034C-9C72-496D-BF21-BA541E6DAAB4}.Development|Default.ActiveCfg = Development
+		{9D4F034C-9C72-496D-BF21-BA541E6DAAB4}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://suramericabi.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DonRonaldo_Perfil_Semanal.dtproj
+		SccLocalPath1 = .
+	EndGlobalSection
+EndGlobal
